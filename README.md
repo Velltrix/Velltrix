@@ -22,4 +22,4 @@ I'm a Junior Software Developer currently developing full stack apps and working
 #
 
 ### Stats
-![Velltrix's GitHub stats](https://github-readme-stats.vercel.app/api?username?velltrix&show_icons=true&theme=gruvbox)
+![Velltrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=velltrix&show_icons=true&theme=gruvbox)
