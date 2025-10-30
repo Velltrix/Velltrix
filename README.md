@@ -1,4 +1,4 @@
-# Velltrix
+# 🤖 Velltrix
 
 **`Junior Software Developer`**
 
@@ -6,7 +6,7 @@ I'm a Junior Software Developer currently developing full stack apps and working
 
 ---
 
-### Languages and Tools
+### 🐍 Languages and Tools
 
 <a href="https://www.python.org/"><img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
 <a href="https://react.dev"><img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
@@ -22,5 +22,5 @@ I'm a Junior Software Developer currently developing full stack apps and working
 
 #
 
-### Stats
+### 📊 Stats
 ![Velltrix's GitHub stats](https://github-readme-stats.vercel.app/api?username=velltrix&show_icons=true&theme=gruvbox)
